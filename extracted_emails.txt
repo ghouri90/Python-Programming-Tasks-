@@ -1,0 +1,24 @@
+EXTRACTED EMAIL ADDRESSES
+========================================
+Source: C:\Users\ASAD GHOURI\Desktop\project task\emails.txt
+Date: 2025-11-13 14:37:24
+Total: 17 unique emails
+========================================
+
+ 1. john.doe@company.com
+ 2. sarah_smith123@gmail.com
+ 3. support@mywebsite.org
+ 4. info@example.com
+ 5. alex.williams@company.co.uk
+ 6. mike.brown@domain.net
+ 7. jenny.lee@university.edu
+ 8. contact_us@service.com
+ 9. sales@business.com
+10. admin@backup.org
+11. emergency@company.com
+12. manager@corporation.com
+13. test_user@test.com
+14. webmaster@site.org
+15. developer@coding.com
+16. team@organization.com
+17. analyst@data-science.com
